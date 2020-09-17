@@ -2,7 +2,7 @@
 Repository to hold the data for Japan soccer championship "J1 League" and some data analysis on it
 
 ### Under construction ###
-Match data available: until 15th round  
+Match data available: until 16th round  
 Player data available: until 15th round  
 
 Notes to Match Report:  
@@ -54,9 +54,8 @@ Notes to Player Data
 Name     = Player name  
 \#       = Shirt Number  
 Nation   = Nationality of the player  
-Pos      = Position of the player  
-Year     = Year of the match  
 Team     = Current team of the player  
+Year     = Year of the match  
 Matchday = League round  
 Team 1   = Team 1 name  
 Team 2   = Team 2 name  
@@ -64,6 +63,7 @@ Min      = Minutes played
 ＊SoTA   = Shots on target against  
 ＊GA     = Goals against  
 ＊Saves  = Number of saves  
+＊Saves% = Saves percentage  
 Gls      = Goals scored  
 Ast      = Number of assists  
 PK       = Goals from penalties  
