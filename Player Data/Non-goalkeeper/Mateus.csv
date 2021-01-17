@@ -5,6 +5,7 @@ Mateus,16,BRA,Grampus,2020,3,Nagoya Grampus,Gamba Osaka,90,1,0,0,0,2,1,0,0,2,3,0
 Mateus,16,BRA,Grampus,2020,4,Cerezo Osaka,Nagoya Grampus,89,0,0,0,0,2,0,0,0,1,0,0,4,0,2,0,0,0
 Mateus,16,BRA,Grampus,2020,5,Nagoya Grampus,Sagan Tosu,89,0,0,0,0,1,0,0,0,1,1,0,6,0,0,0,0,0
 Mateus,16,BRA,Grampus,2020,6,Oita Trinita,Nagoya Grampus,90,0,0,0,0,1,0,0,0,0,2,1,3,2,0,0,0,0
+Mateus,16,BRA,Grampus,2020,7,Sanfrecce Hiroshima,Nagoya Grampus,90,0,0,0,0,1,0,0,0,3,2,0,3,0,1,0,0,0
 Mateus,16,BRA,Grampus,2020,8,Nagoya Grampus,Kashiwa Reysol,73,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,0,0
 Mateus,16,BRA,Grampus,2020,9,Nagoya Grampus,Urawa Red Diamonds,82,0,1,0,0,4,1,0,0,2,1,0,1,1,0,0,0,0
 Mateus,16,BRA,Grampus,2020,10,FC Tokyo,Nagoya Grampus,90,0,0,0,0,0,0,0,0,1,2,0,6,2,0,0,0,0
@@ -13,3 +14,22 @@ Mateus,16,BRA,Grampus,2020,12,Nagoya Grampus,Kawasaki Frontale,86,0,1,0,0,2,1,0,
 Mateus,16,BRA,Grampus,2020,13,Hokkaido Consadole Sapporo,Nagoya Grampus,90,0,0,0,0,1,0,0,0,0,2,1,11,3,2,0,0,0
 Mateus,16,BRA,Grampus,2020,14,Nagoya Grampus,Kashima Antlers,65,0,0,0,0,1,0,0,0,1,2,0,6,1,0,0,0,0
 Mateus,16,BRA,Grampus,2020,15,Nagoya Grampus,Yokohama F. Marinos,90,1,1,0,0,3,2,0,0,1,1,2,6,2,1,0,0,0
+Mateus,16,BRA,Grampus,2020,16,Yokohama FC,Nagoya Grampus,28,1,0,0,0,3,1,0,0,0,1,0,3,0,0,0,0,0
+Mateus,16,BRA,Grampus,2020,17,Nagoya Grampus,Vissel Kobe,90,0,0,0,0,5,2,0,0,1,1,0,7,2,2,0,0,0
+Mateus,16,BRA,Grampus,2020,18,Gamba Osaka,Nagoya Grampus,90,0,0,0,0,3,1,0,0,1,0,0,3,1,0,0,0,0
+Mateus,16,BRA,Grampus,2020,19,Nagoya Grampus,Shimizu S-Pulse,88,0,2,0,0,2,1,0,0,0,1,0,10,1,0,0,0,0
+Mateus,16,BRA,Grampus,2020,20,Urawa Red Diamonds,Nagoya Grampus,90,0,1,0,0,2,1,1,0,4,2,0,7,2,1,0,0,0
+Mateus,16,BRA,Grampus,2020,21,Nagoya Grampus,Cerezo Osaka,90,1,0,0,0,1,1,0,0,2,0,0,12,1,0,0,0,0
+Mateus,16,BRA,Grampus,2020,22,Nagoya Grampus,Hokkaido Consadole Sapporo,90,1,1,0,0,2,1,0,0,2,4,0,5,0,1,0,0,0
+Mateus,16,BRA,Grampus,2020,23,Kawasaki Frontale,Nagoya Grampus,90,0,0,0,0,6,1,0,0,0,2,0,8,0,0,0,0,0
+Mateus,16,BRA,Grampus,2020,24,Nagoya Grampus,Vegalta Sendai,90,0,0,0,0,2,1,0,0,1,2,0,22,1,0,0,0,0
+Mateus,16,BRA,Grampus,2020,25,Kashima Antlers,Nagoya Grampus,90,1,0,0,0,1,1,0,0,0,3,0,4,5,3,0,0,0
+Mateus,16,BRA,Grampus,2020,26,Sagan Tosu,Nagoya Grampus,90,0,0,0,0,5,3,0,0,0,2,0,4,1,0,0,0,0
+Mateus,16,BRA,Grampus,2020,27,Nagoya Grampus,FC Tokyo,90,1,0,1,1,4,2,0,0,2,1,0,10,3,0,0,0,0
+Mateus,16,BRA,Grampus,2020,28,Nagoya Grampus,Shonan Bellmare,90,1,1,0,0,5,2,0,0,1,4,0,6,0,1,0,0,0
+Mateus,16,BRA,Grampus,2020,29,Vissel Kobe,Nagoya Grampus,90,0,0,0,0,2,1,0,0,2,0,0,5,0,2,0,0,0
+Mateus,16,BRA,Grampus,2020,30,Nagoya Grampus,Oita Trinita,90,0,0,0,0,6,1,0,0,1,3,0,3,0,0,0,0,0
+Mateus,16,BRA,Grampus,2020,31,Kashiwa Reysol,Nagoya Grampus,90,0,0,0,0,3,2,0,0,1,4,1,5,2,1,0,0,0
+Mateus,16,BRA,Grampus,2020,32,Nagoya Grampus,Yokohama FC,90,0,0,0,0,6,2,0,0,1,2,0,5,0,0,0,0,0
+Mateus,16,BRA,Grampus,2020,33,Yokohama F. Marinos,Nagoya Grampus,90,1,0,0,0,3,2,0,0,1,6,3,1,1,2,0,0,0
+Mateus,16,BRA,Grampus,2020,34,Nagoya Grampus,Sanfrecce Hiroshima,88,0,0,0,0,2,0,0,0,1,0,0,4,0,2,0,0,0

@@ -3,9 +3,9 @@ Repository to hold the data for Japan soccer championship "J1 League" and some d
 
 ### Under construction ###
 Match data available: Full 2020 season  
-Player data available: until 15th round of 2020 season  
+Player data available: Full 2020 season  
 
-TODO: Some data cleaning
+TODO: Data analysis  
 
 Notes to Match Report:  
 Year     = League year  

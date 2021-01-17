@@ -5,6 +5,7 @@ Name,#,Nation,Team,Year,Matchday,Team 1,Team 2,Min,Gls,Ast,PK,Pkatt,Sh,SoT,CrdY,
 "Inagaki, Sho",15,JPN,Grampus,2020,4,Cerezo Osaka,Nagoya Grampus,90,0,1,0,0,3,1,0,0,2,0,0,0,3,1,0,0,0
 "Inagaki, Sho",15,JPN,Grampus,2020,5,Nagoya Grampus,Sagan Tosu,90,0,0,0,0,2,0,0,0,1,2,0,0,0,3,0,0,0
 "Inagaki, Sho",15,JPN,Grampus,2020,6,Oita Trinita,Nagoya Grampus,65,0,0,0,0,1,1,0,0,2,1,0,0,0,0,0,0,0
+"Inagaki, Sho",15,JPN,Grampus,2020,7,Sanfrecce Hiroshima,Nagoya Grampus,90,0,0,0,0,0,0,0,0,3,1,0,0,4,5,0,0,0
 "Inagaki, Sho",15,JPN,Grampus,2020,8,Nagoya Grampus,Kashiwa Reysol,90,0,0,0,0,2,0,1,0,2,4,0,0,1,1,0,0,0
 "Inagaki, Sho",15,JPN,Grampus,2020,9,Nagoya Grampus,Urawa Red Diamonds,90,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
 "Inagaki, Sho",15,JPN,Grampus,2020,10,FC Tokyo,Nagoya Grampus,90,0,0,0,0,1,1,0,0,2,1,0,0,1,1,0,0,0
@@ -13,3 +14,22 @@ Name,#,Nation,Team,Year,Matchday,Team 1,Team 2,Min,Gls,Ast,PK,Pkatt,Sh,SoT,CrdY,
 "Inagaki, Sho",15,JPN,Grampus,2020,13,Hokkaido Consadole Sapporo,Nagoya Grampus,90,0,0,0,0,2,0,0,0,0,3,0,0,1,0,0,0,0
 "Inagaki, Sho",15,JPN,Grampus,2020,14,Nagoya Grampus,Kashima Antlers,90,1,0,0,0,1,1,1,0,4,2,0,1,0,2,0,0,0
 "Inagaki, Sho",15,JPN,Grampus,2020,15,Nagoya Grampus,Yokohama F. Marinos,90,0,0,0,0,1,0,0,0,2,5,0,0,2,4,0,0,0
+"Inagaki, Sho",15,JPN,Grampus,2020,16,Yokohama FC,Nagoya Grampus,90,0,0,0,0,1,0,0,0,1,1,0,1,0,2,0,0,0
+"Inagaki, Sho",15,JPN,Grampus,2020,17,Nagoya Grampus,Vissel Kobe,90,0,0,0,0,3,0,0,0,2,0,0,0,1,3,0,0,0
+"Inagaki, Sho",15,JPN,Grampus,2020,18,Gamba Osaka,Nagoya Grampus,90,0,0,0,0,1,0,0,0,3,2,0,1,0,3,0,0,0
+"Inagaki, Sho",15,JPN,Grampus,2020,19,Nagoya Grampus,Shimizu S-Pulse,90,0,0,0,0,0,0,0,0,1,2,0,0,1,1,0,0,0
+"Inagaki, Sho",15,JPN,Grampus,2020,20,Urawa Red Diamonds,Nagoya Grampus,90,0,0,0,0,0,0,0,0,0,3,0,1,1,2,0,0,0
+"Inagaki, Sho",15,JPN,Grampus,2020,21,Nagoya Grampus,Cerezo Osaka,90,0,0,0,0,3,1,0,0,1,0,0,0,0,2,0,0,0
+"Inagaki, Sho",15,JPN,Grampus,2020,22,Nagoya Grampus,Hokkaido Consadole Sapporo,90,1,0,0,0,2,1,0,0,1,2,0,0,1,1,0,0,0
+"Inagaki, Sho",15,JPN,Grampus,2020,23,Kawasaki Frontale,Nagoya Grampus,90,0,0,0,0,1,0,0,0,0,0,0,1,1,2,0,0,0
+"Inagaki, Sho",15,JPN,Grampus,2020,24,Nagoya Grampus,Vegalta Sendai,90,1,0,0,0,4,1,0,0,1,1,0,0,0,0,0,0,0
+"Inagaki, Sho",15,JPN,Grampus,2020,25,Kashima Antlers,Nagoya Grampus,90,0,0,0,0,1,1,0,0,2,4,0,0,6,1,0,0,0
+"Inagaki, Sho",15,JPN,Grampus,2020,26,Sagan Tosu,Nagoya Grampus,90,0,0,0,0,0,0,0,0,1,2,0,0,1,3,0,0,0
+"Inagaki, Sho",15,JPN,Grampus,2020,27,Nagoya Grampus,FC Tokyo,90,0,0,0,0,3,0,0,0,3,1,0,0,2,0,0,0,0
+"Inagaki, Sho",15,JPN,Grampus,2020,28,Nagoya Grampus,Shonan Bellmare,90,0,0,0,0,1,0,0,0,0,1,0,0,2,3,0,0,0
+"Inagaki, Sho",15,JPN,Grampus,2020,29,Vissel Kobe,Nagoya Grampus,90,0,0,0,0,0,0,0,0,2,1,0,0,2,6,0,0,0
+"Inagaki, Sho",15,JPN,Grampus,2020,30,Nagoya Grampus,Oita Trinita,90,0,0,0,0,1,0,0,0,1,1,0,0,1,0,0,0,0
+"Inagaki, Sho",15,JPN,Grampus,2020,31,Kashiwa Reysol,Nagoya Grampus,90,0,0,0,0,0,0,0,0,2,1,0,1,0,4,0,0,0
+"Inagaki, Sho",15,JPN,Grampus,2020,32,Nagoya Grampus,Yokohama FC,90,0,0,0,0,1,0,0,0,1,3,0,0,1,5,0,0,0
+"Inagaki, Sho",15,JPN,Grampus,2020,33,Yokohama F. Marinos,Nagoya Grampus,90,0,0,0,0,1,0,0,0,1,3,0,1,1,6,0,0,0
+"Inagaki, Sho",15,JPN,Grampus,2020,34,Nagoya Grampus,Sanfrecce Hiroshima,90,0,0,0,0,3,0,0,0,1,2,0,0,2,2,0,0,0
